@@ -1,29 +1,23 @@
 
-# Project Title : abc title
+# Project Title : README generator
 ## Project Description:
-def description
+This readme generator creates a readme file by asking you a few questions.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [License](#license)
 * [Contributing](#contributing)
 * [Test](#test)
 * [Questions](#questions)
-* [License](#license)
-* [Author] (#Author)
-* [Badges](#badges)
 ## Installation
-ghi inst
+download the package and npm install and run node
 ## Usage
-jkl usage
-## Contributors
-mno
-## Test
-pqr
-## Questions
-If you have any questions, contact stuv at wxyz@email.com on GitHub.
+all usage
 ## License
-MIT License
-## Author 
-!Benedicta Kim
-## Badges
-!(https://img.shields.io/github/repo-size/benedictakim/homework9)
+Apache 2
+## Contributors
+anyone can contribute 
+## Test
+Not thoroughly tested
+## Questions
+If you have any questions, contact benedictakim on Github or email benedicta.kim@gmail.com.
