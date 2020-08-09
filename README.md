@@ -21,3 +21,4 @@ anyone can contribute
 Not thoroughly tested
 ## Questions
 If you have any questions, contact benedictakim on Github or email benedicta.kim@gmail.com.
+![Badge of Reposize] (https://github.com/benedictakim/homework9/blob/master/reposize.svg)
