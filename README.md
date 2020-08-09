@@ -2,7 +2,7 @@
 # Project Title : README generator
 ## Project Description:
 This readme generator creates a readme file by asking you a few questions.
-![node screen] (https://github.com/benedictakim/homework9/blob/master/node_questions_screen.PNG)
+<img src="/node_questions_screen.PNG">
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
